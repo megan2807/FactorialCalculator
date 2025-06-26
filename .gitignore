@@ -1,0 +1,30 @@
+# Compiled Executables
+*.exe
+*.out
+*.app
+
+# Object Files
+*.o
+*.obj
+
+# Build Directories
+build/
+bin/
+debug/
+release/
+
+# IDE-specific files (common examples)
+.vscode/
+.idea/
+*.user
+*.suo
+*.ncb
+*.opensdf
+*.sdf
+*.VC.db
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
